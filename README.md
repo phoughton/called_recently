@@ -1,7 +1,7 @@
 # called_recently is an example implementation of an interview question.
 ## Specification
 
-The goal is to create a function that will return `True` if the method has been called in the last 3 seconds.
+The goal is to create a function that will return `True` if the function has been called in the last 3 seconds.
 The function should return `False` if it has not been called in the previous 3 seconds.
 
 ## Tests
